@@ -8,8 +8,8 @@ import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
 /*
-Usar anotación Hilt.
-Inyectar Usecases de NewsUsesCases
+Uso de Dagger Hilt. Usar anotación Hilt.
+Inyectar Usecases de NewsUsesCases (inyectar los casos de uso)
  */
 
 @HiltViewModel
